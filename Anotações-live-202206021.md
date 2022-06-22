@@ -1,1 +1,1 @@
-#Anotações live [Como dar os Primeiros Passos no Power BI](https://www.youtube.com/watch?v=MZCtkHBao5M&list=PLxjKFMYkZ9Od79I04iYWi6o5CbXXLKktV&index=2) em 21/06/2022.
+#Anotações live [Como dar os Primeiros Passos no Power BI](https://www.youtube.com/watch?v=MZCtkHBao5M) em 21/06/2022.
